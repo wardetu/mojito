@@ -1,3 +1,6 @@
+# Disclaimer:
+This fork is to contain a `setup.py` file. No other changes are made.
+
 # Mojito
 Mojito helps to interpret the predictions of Entity Resolution classifiers.
 
